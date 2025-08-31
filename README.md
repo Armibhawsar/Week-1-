@@ -1,9 +1,12 @@
 # Week-1-
+📝 Project Description
+
 Water Resource Management
+
 This project explores district-wise groundwater data from India (2017) to understand water availability and usage patterns. The goal is to perform initial data exploration and identify potential insights for sustainable water resource management.
 
 📂 Dataset
-Source: Kaggle – District-wise Ground Water Resources by July 2017
+Source: Kaggle – https://www.kaggle.com/datasets/tuhinssam/districtwise-ground-water-resources-by-july-2017?resource=download
 
 File Used: Dynamic_2017_2_0.csv
 
